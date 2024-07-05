@@ -22,5 +22,5 @@
 <div align="left">
 <img src="http://github-readme-streak-stats.herokuapp.com?user=zakacumalaka&theme=dark" width="50%" />
 </div>
-<br><br>
-<h2 align="center">Nah, I'm Do My Own Things</h2>
+<br>
+<h1 align="center">Nah, I'm Do My Own Things</h1>
