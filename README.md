@@ -4,5 +4,5 @@
     </a>
 </p>
 <p align="center">
-    <img height="32" width="32" src="https://cdn.simpleicons.org/telegram/black/white"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="32" width="32" src="https://cdn.simpleicons.org/whatsapp/black/white" />
+    <a href="https://t.me/ZxhCarkecor" target="_blank"><img height="32" width="32" src="https://cdn.simpleicons.org/telegram/black/white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="32" width="32" src="https://cdn.simpleicons.org/whatsapp/black/white" />
 </p>
