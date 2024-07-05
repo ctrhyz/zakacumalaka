@@ -6,19 +6,19 @@
   
   <p align="center" style="margin: -20px 0 30px">
      <a href="https://t.me/ZxhCarkecor" target="_blank">
-      <img align="center" src="https://skillicons.dev/icons?i=telegram" height="25px" width="25px"/>
+      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/telegram.svg" alt="telegram" height="25px" width="25px"/>
     </a>
     &nbsp;&nbsp;
     <a href="https://stackoverflow.com/users/4467741/aral-roca" target="_blank">
-      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stackoverflow" height="22px" width="22px"/>
+      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/stackoverflow.svg" alt="stackoverflow" height="22px" width="22px"/>
     </a>
     &nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/aral-roca-gomez-3b536bb1/" target="_blank">
-      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="22px" width="22px"/>
+      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg" alt="linkedin" height="22px" width="22px"/>
     </a>
     &nbsp;&nbsp;
     <a href="mailto:contact@aralroca.com" target="_blank">
-      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/protonmail.svg" alt="email" height="22px" width="22px"/>
+      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/protonmail.svg" alt="email" height="22px" width="22px"/>
     </a>
   </p>
   
