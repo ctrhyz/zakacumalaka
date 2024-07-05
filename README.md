@@ -3,7 +3,8 @@
         <img width="125" src="bunder.png" alt="logo" />
     </a>
 </p>
-
-<p align="center" style="margin-top: 2vh;">
+<br>
+<br>
+<p align="center">
     <img height="32" width="32" src="https://cdn.simpleicons.org/telegram/black/white" />
 </p>
