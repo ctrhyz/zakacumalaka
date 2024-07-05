@@ -4,7 +4,6 @@
     </a>
 </p>
 <br>
-<br>
 <p align="center">
     <img height="32" width="32" src="https://cdn.simpleicons.org/telegram/black/white" />
 </p>
