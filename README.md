@@ -15,6 +15,6 @@
     <br>
 </div>
 <picture>
-    <source srcset="https://github-readme-stats-zakacumalaka.vercel.app/api?username=zakacumalaka&theme=dark&show_icons=true">
-    <img align="right" width="50%" src="https://github-readme-stats-zakacumalaka.vercel.app/api?username=zakacumalaka&show_icons=true">
+    <source srcset="https://github-readme-stats-ouuan.vercel.app/api?username=zakacumalaka&theme=dark&show_icons=true">
+    <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=zakacumalaka&show_icons=true">
 </picture>
