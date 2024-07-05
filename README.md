@@ -4,7 +4,7 @@
     </a>
   </p>
   
-  <p align="center" style="margin: -20px 0 30px">
+  <p align="center">
      <a href="https://t.me/ZxhCarkecor" target="_blank">
       <img align="center" src="https://cdn.simpleicons.org/telegram/black/white" alt="telegram" height="25px" width="25px"/>
     </a>
