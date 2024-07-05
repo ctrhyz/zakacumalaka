@@ -5,7 +5,7 @@
   </p>
   
   <p align="center" style="margin: -20px 0 30px">
-     <a href="https://t.me/ZxhCarkecor" target="_blank" style='margin-right:10px'>
+     <a href="https://t.me/ZxhCarkecor" target="_blank" style='margin-right:10px; text-decoration: none;'>
       <img align="center" src="https://skillicons.dev/icons?i=git" alt="telegram" height="22px" width="22px" />
     </a>
     &nbsp;&nbsp;
