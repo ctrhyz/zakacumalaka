@@ -20,6 +20,5 @@
 </picture>
 <br>
 <picture>
-    <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=zakacumalaka&theme=graywhite#gh-light-mode-only" width="50%" />
-    <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=zakacumalaka&theme=dark#gh-dark-mode-only" width="50%" />
+    <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=zakacumalaka&theme=dark" width="50%" />
 </picture>
