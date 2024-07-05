@@ -6,7 +6,7 @@
   
   <p align="center" style="margin: -20px 0 30px">
      <a href="https://t.me/ZxhCarkecor" target="_blank" style='margin-right:10px; text-decoration: none;'>
-      <img align="center" src="https://skillicons.dev/icons?i=git" alt="telegram" height="22px" width="22px" />
+      <img align="center" src="https://skillicons.dev/icons?i=git" height="25px" width="25px" />
     </a>
     &nbsp;&nbsp;
     <a href="https://stackoverflow.com/users/4467741/aral-roca" target="_blank" style='margin-right:10px'>
