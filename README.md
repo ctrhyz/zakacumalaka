@@ -5,8 +5,8 @@
   </p>
   
   <p align="center" style="margin: -20px 0 30px">
-     <a href="https://twitter.com/aralroca" target="_blank" style='margin-right:10px; color: white;'>
-      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="22px" width="22px" />
+     <a href="https://t.me/ZxhCarkecor" target="_blank" style='margin-right:10px'>
+      <img align="center" src="https://skillicons.dev/icons?i=git" alt="telegram" height="22px" width="22px" />
     </a>
     &nbsp;&nbsp;
     <a href="https://stackoverflow.com/users/4467741/aral-roca" target="_blank" style='margin-right:10px'>
