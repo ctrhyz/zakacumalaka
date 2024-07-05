@@ -8,7 +8,7 @@
 </p>
 
 <div align="center">
-    <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakacumalaka&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
+    <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakacumalaka&theme=dark&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
     <br>
     <i>The most language I used in my repos</i>
     <br>
