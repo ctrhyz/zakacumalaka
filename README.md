@@ -18,3 +18,7 @@
     <source srcset="https://github-readme-stats-ouuan.vercel.app/api?username=zakacumalaka&theme=dark&show_icons=true">
     <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=zakacumalaka&show_icons=true">
 </picture>
+<picture>
+    <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=lifeparticle&theme=graywhite#gh-light-mode-only" width="350" />
+    <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=lifeparticle&theme=dark#gh-dark-mode-only" width="350" />
+</picture>
