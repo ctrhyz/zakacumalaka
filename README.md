@@ -14,11 +14,11 @@
     <br>
     <br>
 </div>
-<br>
-<picture>
-    <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=zakacumalaka&theme=dark&show_icons=true">
-</picture>
-<br align="left">
-<picture>
-    <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=zakacumalaka&theme=dark" width="50%" />
-</picture>
+<div align="right">
+    <img width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=zakacumalaka&theme=dark&show_icons=true">
+    <br>
+    <br>
+</div>
+<div align="left">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=zakacumalaka&theme=dark" width="50%" />
+</div>
