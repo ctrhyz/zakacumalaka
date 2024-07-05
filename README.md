@@ -5,10 +5,10 @@
 </p>
 
 
-    [![Telegram](https://cdn.simpleicons.org/telegram/black/white)](https://t.me/ZxhCarkecor)
-    [![Whatsapp](https://cdn.simpleicons.org/whatsapp/black/white)](https://wa.me/6285141022754?text=GTHB)
-    [![Facebook](https://cdn.simpleicons.org/telegram/black/white)](https://t.me/ZxhCarkecor)
-    [![Instagram](https://cdn.simpleicons.org/telegram/black/white)](https://t.me/ZxhCarkecor)
+[![Telegram](https://cdn.simpleicons.org/telegram/black/white)](https://t.me/ZxhCarkecor)
+[![Whatsapp](https://cdn.simpleicons.org/whatsapp/black/white)](https://wa.me/6285141022754?text=GTHB)
+[![Facebook](https://cdn.simpleicons.org/telegram/black/white)](https://t.me/ZxhCarkecor)
+[![Instagram](https://cdn.simpleicons.org/telegram/black/white)](https://t.me/ZxhCarkecor)
 
 
     <a href="https://t.me/ZxhCarkecor" target="_blank">
