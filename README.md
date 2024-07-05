@@ -18,7 +18,7 @@
 <picture>
     <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=zakacumalaka&theme=dark&show_icons=true">
 </picture>
+<br align="left">
 <picture>
-    <br>
     <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=zakacumalaka&theme=dark" width="50%" />
 </picture>
