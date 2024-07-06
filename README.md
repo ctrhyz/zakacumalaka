@@ -14,6 +14,6 @@
     <br>
     <br>
 </div>
-<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=zakacumalaka&theme=dark&show_icons=true">
-<br>
-<img width="50%" src="http://github-readme-streak-stats.herokuapp.com?user=zakacumalaka&theme=dark" />
+<img align="right" width="60%" src="https://github-readme-stats-ouuan.vercel.app/api?username=zakacumalaka&theme=dark&show_icons=true">
+<div><br></div>
+<img width="60%" src="http://github-readme-streak-stats.herokuapp.com?user=zakacumalaka&theme=dark" />
