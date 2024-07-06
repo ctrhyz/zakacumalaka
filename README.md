@@ -17,10 +17,8 @@
 <div align="right">
     <img width="360" src="https://github-readme-stats-ouuan.vercel.app/api?username=zakacumalaka&theme=dark&show_icons=true">
     <br>
-    <br>
 </div>
 <div>
-    <br>
     <br>
     <img width="360" src="http://github-readme-streak-stats.herokuapp.com?user=zakacumalaka&theme=dark" />
 </div>
