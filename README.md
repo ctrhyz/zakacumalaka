@@ -15,11 +15,11 @@
 </div>
 <div align="right">
     <br>
-    <img width="45%" src="https://github-readme-stats-ouuan.vercel.app/api?username=zakacumalaka&theme=dark&show_icons=true" alt="Github Stats">
+    <img width="450" src="https://github-readme-stats-ouuan.vercel.app/api?username=zakacumalaka&theme=dark&show_icons=true" alt="Github Stats">
     <br>
 </div>
 <div>
     <br>
-    <img width="45%" src="http://github-readme-streak-stats.herokuapp.com?user=zakacumalaka&theme=dark" alt="Streak Stats"/>
+    <img width="450" src="http://github-readme-streak-stats.herokuapp.com?user=zakacumalaka&theme=dark" alt="Streak Stats"/>
 </div>
 </div>
