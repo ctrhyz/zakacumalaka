@@ -16,12 +16,9 @@
 </div>
 <div align="center">
 <div align="right">
-    <p>Kontol</p>
     <img width="350" src="https://github-readme-stats-ouuan.vercel.app/api?username=zakacumalaka&theme=dark&show_icons=true" alt="Github Stats">
 </div>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <div align="left">
-    <p>Jembod</p>
     <img width="350" src="http://github-readme-streak-stats.herokuapp.com?user=zakacumalaka&theme=dark" alt="Streak Stats"/>
 </div>
 </div>
