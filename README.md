@@ -15,12 +15,12 @@
     <br>
 </div>
 <div align="right">
-    <img width="350" src="https://github-readme-stats-ouuan.vercel.app/api?username=zakacumalaka&theme=dark&show_icons=true">
+    <img src="https://github-readme-stats-ouuan.vercel.app/api?username=zakacumalaka&theme=dark&show_icons=true">
     <br>
     <br>
 </div>
 <div>
-<img src="http://github-readme-streak-stats.herokuapp.com?user=zakacumalaka&theme=dark" width="350" />
+<img src="http://github-readme-streak-stats.herokuapp.com?user=zakacumalaka&theme=dark" />
 </div>
 <br>
 <h1 align="center">Nah, I'm Do My Own Things</h1>
