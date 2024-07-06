@@ -16,7 +16,5 @@
     <img width="350" align="right" src="https://github-readme-stats-ouuan.vercel.app/api?username=zakacumalaka&theme=dark&show_icons=true" alt="Github Stats">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img width="350" align="left" src="http://github-readme-streak-stats.herokuapp.com?user=zakacumalaka&theme=dark" alt="Streak Stats"/>
-    <div align="center">
-        &nbsp;<strong>Z X H<br>※<br>俺 わ 誰</strong>
-    </div>
+    &nbsp;<strong align="center"><br>Z X H<br>※<br>俺 わ 誰</strong>
 </div>
