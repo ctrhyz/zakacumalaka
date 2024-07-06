@@ -19,7 +19,7 @@
     <br>
     <br>
 </div>
-<div align="left">
+<div>
 <img src="http://github-readme-streak-stats.herokuapp.com?user=zakacumalaka&theme=dark" width="50%" />
 </div>
 <br>
