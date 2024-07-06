@@ -22,5 +22,8 @@
     <img width="350" src="http://github-readme-streak-stats.herokuapp.com?user=zakacumalaka&theme=dark" alt="Streak Stats"/>
 </div>
 <div align="center">
+    <p>Nah, I'm Do My Own Things</p>
+</div>
+<div align="center">
     &nbsp;<strong><br>Z X H<br>※<br>俺 わ 誰</strong>
 </div>
