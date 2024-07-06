@@ -20,5 +20,5 @@
     <br>
 </div>
 <div align="center">
-    &nbsp;&nbsp;&nbsp;<br>Z X H<br>※<br>俺 わ 誰
+    &nbsp;&nbsp;<br>Z X H<br>※<br>俺 わ 誰
 </div>
