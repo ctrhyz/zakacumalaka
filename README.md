@@ -14,6 +14,7 @@
     <br>
     <br>
 </div>
+<div align="center">
 <div align="right">
     <img width="360" src="https://github-readme-stats-ouuan.vercel.app/api?username=zakacumalaka&theme=dark&show_icons=true">
     <br>
@@ -21,4 +22,5 @@
 <div>
     <br>
     <img width="360" src="http://github-readme-streak-stats.herokuapp.com?user=zakacumalaka&theme=dark" />
+</div>
 </div>
