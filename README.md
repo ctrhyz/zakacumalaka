@@ -14,13 +14,6 @@
     <br>
     <br>
 </div>
-<div align="right">
-    <img src="https://github-readme-stats-ouuan.vercel.app/api?username=zakacumalaka&theme=dark&show_icons=true">
-    <br>
-    <br>
-</div>
-<div>
-<img src="http://github-readme-streak-stats.herokuapp.com?user=zakacumalaka&theme=dark" />
-</div>
-<br>
-<b align="center">Nah, I'm Do My Own Things</b>
+<img align="right" src="https://github-readme-stats-ouuan.vercel.app/api?username=zakacumalaka&theme=dark&show_icons=true">
+<div><br><br></div>
+<img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=zakacumalaka&theme=dark" />
