@@ -19,5 +19,5 @@
     <img width="350" align="left" src="http://github-readme-streak-stats.herokuapp.com?user=zakacumalaka&theme=dark" alt="Streak Stats"/>
 </div>
 <div align="center">
-    &nbsp;&nbsp;<strong><br>Z X H<br>※<br>俺 わ 誰</strong>
+    <strong><br>Z X H<br>※<br>俺 わ 誰</strong>
 </div>
